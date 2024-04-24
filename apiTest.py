@@ -1,8 +1,8 @@
 import requests
 
 # The local server URL
-url = 'http://localhost:500/predict-emotion'
-url1 = 'http://127.0.0.1:5000//predict-emotion'
+url = 'http://localhost:5000/predict-emotion'
+url1 = 'http://127.0.0.1:5000/predict-emotion'
 # The path to the image file
 file_path = 'image/img.png'
 
